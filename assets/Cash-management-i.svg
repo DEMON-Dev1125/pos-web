@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="14px" viewBox="0 0 18 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title></title>
+    <g id="POS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="POS-/-Sidenav" transform="translate(-57.000000, -466.000000)" fill="#778CA2" fill-rule="nonzero">
+            <g id="Kanban" transform="translate(17.000000, 463.000000)">
+                <path d="M57.25,17 L57.25,3.25 L40.75,3.25 L40.75,17 L57.25,17 Z M45.5625,7.375 L42.125,7.375 L42.125,4.625 L45.5625,4.625 L45.5625,7.375 Z M55.875,7.375 L46.9375,7.375 L46.9375,4.625 L55.875,4.625 L55.875,7.375 Z M45.5625,11.5 L42.125,11.5 L42.125,8.75 L45.5625,8.75 L45.5625,11.5 Z M55.875,11.5 L46.9375,11.5 L46.9375,8.75 L55.875,8.75 L55.875,11.5 Z M45.5625,15.625 L42.125,15.625 L42.125,12.875 L45.5625,12.875 L45.5625,15.625 Z M55.875,15.625 L46.9375,15.625 L46.9375,12.875 L55.875,12.875 L55.875,15.625 Z" id=""></path>
+            </g>
+        </g>
+    </g>
+</svg>
